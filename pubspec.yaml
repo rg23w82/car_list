@@ -52,6 +52,22 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - assets/rio-7.jpg
+    - assets/01_note.jpg
+    - assets/bmw.jpg
+    - assets/carnival.jpg
+    - assets/elantra.jpg
+    - assets/Hyundai-i30-Sport-Nav-441.jpg
+    - assets/K5.jpg
+    - assets/lacetti.jpg
+    - assets/matiz.jpg
+    - assets/modelX.jpg
+    - assets/modely.jpeg
+    - assets/polo.jpg
+    - assets/rapid.jpg
+    - assets/solaris.jpg
+    - assets/yaz.jpg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
